@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Audacity
+GenericName=Audio
+Icon=/home/lun/Applications/audacity.png
+Exec=/home/lun/Applications/audacity-linux-3.2.4-x64.AppImage
+Terminal=false
+Comment=Audio manupilator for linux
+MimeType=x-scheme-handler/audacity;
+Categories=Audio;Music;Player;AudioVideo;
+StartupWMClass=audacity
