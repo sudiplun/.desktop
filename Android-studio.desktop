@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Android-studio
+Comment=Official desktop version of android
+TryExec=/opt/android-studio/bin/studio.sh
+Exec=/opt/android-studio/bin/studio.sh -- %u
+Icon=/opt/android-studio/bin/studio.png
+Terminal=false
+StartupWMClass=Android
+Type=Application
+#Categories=Chat;Network;InstantMessaging;Qt;
+#MimeType=x-scheme-handler/tg;
+#Keywords=tg;chat;im;messaging;messenger;sms;tdesktop;
+Actions=Quit;
+SingleMainWindow=true
+X-GNOME-UsesNotifications=true
