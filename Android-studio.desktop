@@ -1,15 +1,9 @@
 [Desktop Entry]
-Name=Android-studio
-Comment=Official desktop version of android
-TryExec=/opt/android-studio/bin/studio.sh
-Exec=/opt/android-studio/bin/studio.sh -- %u
-Icon=/opt/android-studio/bin/studio.png
-Terminal=false
-StartupWMClass=Android
+Version=1.0
 Type=Application
-#Categories=Chat;Network;InstantMessaging;Qt;
-#MimeType=x-scheme-handler/tg;
-#Keywords=tg;chat;im;messaging;messenger;sms;tdesktop;
-Actions=Quit;
-SingleMainWindow=true
-X-GNOME-UsesNotifications=true
+Terminal=false
+Name=Android Studio
+Exec=/opt/android-studio-2022.1.1/android-studio/bin/studio.sh
+Comment=Integrated Android developer tools for development and debugging.
+Icon=androidstudio
+Categories=GNOME;GTK;Development;IDE;
